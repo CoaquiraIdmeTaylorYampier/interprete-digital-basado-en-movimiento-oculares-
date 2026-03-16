@@ -1,0 +1,7 @@
+# Entorno virtual
+venv310/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
